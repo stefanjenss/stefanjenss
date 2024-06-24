@@ -8,7 +8,7 @@ While obtaining my Master's, I've worked full-time as a Data Coordinator at the 
 - I'm passionate about machine learning and artificial intelligence, with a particular interest in natural language processing and transformer models.
 - I'm fascinated by uncovering previously unknown insights from large datasets using data science and machine learning techniques to drive innovation and provide business value.
 
-### 🧰 Skills
+### 🧰 Key Skills
 - **Programming Languages:** `Python` `R` `SQL`
 - **Machine Learning:** `Decision Trees` `Random Forests` `Gradient Boosting` `Linear and Logistic Regression` `Principal Component Analysis` `KMeans Clustering` `Neural Networks`
   - ***Libraries:*** `Scikit-Learn` `TensorFlow`
