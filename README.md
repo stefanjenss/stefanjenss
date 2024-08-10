@@ -12,7 +12,6 @@ While obtaining my Master's, I've worked full-time as a Data Coordinator at the 
 - **Programming Languages:** `Python` `R` `SQL`
 - **Machine Learning:** `Decision Trees` `Random Forests` `Gradient Boosting` `Linear and Logistic Regression` `Principal Component Analysis` `KMeans Clustering` `Neural Networks`
   - ***Libraries:*** `Scikit-Learn` `TensorFlow`
-- **Version Control:** 
 - **Software Tools & Version Control:** `Microsoft Office` `Google Workspace` `Git` `Github`
 
 ### 📬 Contact
