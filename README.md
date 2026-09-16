@@ -1,5 +1,5 @@
 # Stefan Jenss
-## Data Scientist | Data Coordinator 
+## Data Scientist
 
 I currently live in Washinton, DC, and I'm a few months away from obtaining a Master of Science in Data Science from Northwestern University 🎓. 
 While obtaining my Master's, I've worked full-time as a Data Coordinator at the Lombardi Comprehensive Cancer Center at Georgetown University in a research group studying rare benign blood disorders 🔬🩸.
